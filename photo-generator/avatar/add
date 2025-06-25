@@ -6,7 +6,7 @@
     "status": "in_queue",
     "jobId": "job_abc_123",
     "avatar": {
-      "id": 123,
+      "id": null,
       "title": null,
       "preview": null,
       "gender": null,
