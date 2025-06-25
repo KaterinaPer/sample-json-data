@@ -1,0 +1,24 @@
+{
+  "error": false,
+  "message": "",
+  "data": [
+    {
+      "id": 1,
+      "title": "My First Avatar",
+      "preview": "https://example.com/avatar_preview_1.png",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "title": "Work Avatar",
+      "preview": "https://example.com/avatar_preview_2.png",
+      "isActive": false
+    },
+    {
+      "id": 3,
+      "title": null,
+      "preview": null,
+      "isActive": true
+    }
+  ]
+}
