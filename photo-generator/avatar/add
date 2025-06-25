@@ -9,8 +9,8 @@
       "id": null,
       "title": null,
       "preview": null,
-      "gender": null,
-      "isActive": null
+      "gender": "f",
+      "isActive": false
     },
     "createdAt": "2024-06-25T10:00:00Z"
   }
