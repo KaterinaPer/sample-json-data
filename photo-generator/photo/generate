@@ -6,7 +6,7 @@
     "generationId": 5001,
     "jobId": "job_photo_xyz_789",
     "templateId": 123,
-    "preview": "https://example.com/photos/preview_1001.png",
+    "preview": "https://katerinaper.github.io/sample-json-data/photo-generator/resources/ok.png",
     "resultUrl": null,
     "status": "processing",
     "generationType": "style_transfer",

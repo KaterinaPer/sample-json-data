@@ -32,7 +32,7 @@
         {
           "id": 1025,
           "title": "Cow",
-          "preview": "https://katerinaper.github.io/sample-json-data/photo-generator/resourses/hand.png",
+          "preview": "https://katerinaper.github.io/sample-json-data/photo-generator/resources/hand_normal.png",
           "previewProduction": "https://example.com/avatars/new_profile_pic.png",
           "gender": "f",
           "prompt": null,
@@ -41,7 +41,7 @@
         {
           "id": 6345,
           "title": "Rabbit",
-          "preview": "https://example.com/avatars/new_profile_pic.png",
+          "preview": "https://katerinaper.github.io/sample-json-data/photo-generator/resources/hand.png",
           "previewProduction": "https://example.com/avatars/new_profile_pic.png",
           "gender": "f",
           "prompt": null,
@@ -50,7 +50,7 @@
         {
           "id": 4294,
           "title": "Elephant",
-          "preview": "https://example.com/avatars/new_profile_pic.png",
+          "preview": "https://katerinaper.github.io/sample-json-data/photo-generator/resources/hand_normal.png",
           "previewProduction": "https://example.com/avatars/new_profile_pic.png",
           "gender": "f",
           "prompt": null,
@@ -59,7 +59,7 @@
         {
           "id": 1325,
           "title": "Giraffe",
-          "preview": "https://example.com/avatars/new_profile_pic.png",
+          "preview": "https://katerinaper.github.io/sample-json-data/photo-generator/resources/hand.png",
           "previewProduction": "https://example.com/avatars/new_profile_pic.png",
           "gender": "f",
           "prompt": null,
@@ -68,7 +68,7 @@
         {
           "id": 2345,
           "title": "Snake",
-          "preview": "https://example.com/avatars/new_profile_pic.png",
+          "preview": "https://katerinaper.github.io/sample-json-data/photo-generator/resources/hand_normal.png",
           "previewProduction": "https://example.com/avatars/new_profile_pic.png",
           "gender": "f",
           "prompt": null,
@@ -106,7 +106,7 @@
         {
           "id": 3025,
           "title": "Bear",
-          "preview": "https://example.com/avatars/new_profile_pic.png",
+          "preview": "https://katerinaper.github.io/sample-json-data/photo-generator/resources/hand_normal.png",
           "previewProduction": "https://example.com/avatars/new_profile_pic.png",
           "gender": "f",
           "prompt": null,
@@ -115,7 +115,7 @@
         {
           "id": 3445,
           "title": "Rabbit",
-          "preview": "https://example.com/avatars/new_profile_pic.png",
+          "preview": "https://katerinaper.github.io/sample-json-data/photo-generator/resources/hand.png",
           "previewProduction": "https://example.com/avatars/new_profile_pic.png",
           "gender": "f",
           "prompt": null,
@@ -124,7 +124,7 @@
         {
           "id": 4534,
           "title": "Mouse",
-          "preview": "https://example.com/avatars/new_profile_pic.png",
+          "preview": "https://katerinaper.github.io/sample-json-data/photo-generator/resources/hand_normal.png",
           "previewProduction": "https://example.com/avatars/new_profile_pic.png",
           "gender": "f",
           "prompt": null,
