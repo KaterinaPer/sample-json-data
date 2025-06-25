@@ -1,0 +1,17 @@
+{
+  "error": false,
+  "message": null,
+  "data": {
+    "id": 123,
+    "status": "in_queue",
+    "jobId": "job_abc_123",
+    "avatar": {
+      "id": null,
+      "title": null,
+      "preview": null,
+      "gender": null,
+      "isActive": null
+    },
+    "createdAt": "2024-06-25T10:00:00Z"
+  }
+}

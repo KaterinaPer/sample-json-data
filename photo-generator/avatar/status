@@ -1,0 +1,17 @@
+{
+  "error": false,
+  "message": null,
+  "data": {
+    "id": 123,
+    "status": "completed",
+    "jobId": "job_abc_123",
+    "avatar": {
+      "id": 456,
+      "title": "My New Profile Pic",
+      "preview": "https://example.com/avatars/new_profile_pic.png",
+      "gender": "female",
+      "isActive": true
+    },
+    "createdAt": "2024-06-25T10:00:00Z"
+  }
+}
