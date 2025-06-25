@@ -32,7 +32,7 @@
         {
           "id": 1025,
           "title": "Cow",
-          "preview": "https://example.com/avatars/new_profile_pic.png",
+          "preview": "https://katerinaper.github.io/sample-json-data/photo-generator/resourses/hand.png",
           "previewProduction": "https://example.com/avatars/new_profile_pic.png",
           "gender": "f",
           "prompt": null,

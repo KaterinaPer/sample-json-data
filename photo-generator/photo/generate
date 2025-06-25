@@ -1,0 +1,24 @@
+{
+  "error": false,
+  "message": null,
+  "data": {
+    "id": 1001,
+    "generationId": 5001,
+    "jobId": "job_photo_xyz_789",
+    "templateId": 123,
+    "preview": "https://example.com/photos/preview_1001.png",
+    "resultUrl": null,
+    "status": "processing",
+    "generationType": "style_transfer",
+    "isGodMode": false,
+    "isCouplePhoto": false,
+    "isPV": false,
+    "isPika": false,
+    "isTxt2Img": false,
+    "isMarked": false,
+    "mark": null,
+    "seconds": null,
+    "startedAt": "2024-06-25T11:30:00Z",
+    "finishedAt": null
+  }
+}
