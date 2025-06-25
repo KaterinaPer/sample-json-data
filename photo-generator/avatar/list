@@ -5,19 +5,19 @@
     {
       "id": 1,
       "title": "My First Avatar",
-      "preview": "https://example.com/avatar_preview_1.png",
+      "preview": "https://katerinaper.github.io/sample-json-data/photo-generator/resources/woman.png",
       "isActive": true
     },
     {
       "id": 2,
       "title": "Work Avatar",
-      "preview": "https://example.com/avatar_preview_2.png",
+      "preview": "https://katerinaper.github.io/sample-json-data/photo-generator/resources/man.png",
       "isActive": false
     },
     {
       "id": 3,
-      "title": null,
-      "preview": null,
+      "title": "Amazing",
+      "preview": "https://katerinaper.github.io/sample-json-data/photo-generator/resources/woman.png",
       "isActive": true
     }
   ]
