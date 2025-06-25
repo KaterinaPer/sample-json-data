@@ -1,0 +1,136 @@
+{
+  "error": false,
+  "message": null,
+  "data": [
+    {
+      "id": 41,
+      "title": "Счастье",
+      "preview": null,
+      "isNew": false,
+      "isCouple": false,
+      "isGirlfriends": false,
+      "groupPreview": {
+        "gorup1": [],
+        "gorup2": [],
+        "gorup3": []
+      },
+      "previewByGender": {
+        "f": {
+          "group1": [],
+          "group2": [],
+          "group3": []
+        },
+        "m": {
+          "group1": [],
+          "group2": [],
+          "group3": []
+        }
+      },
+      "totalTemplates": 5,
+      "totalUsed": 0,
+      "templates": [
+        {
+          "id": 1025,
+          "title": "Cow",
+          "preview": "https://example.com/avatars/new_profile_pic.png",
+          "previewProduction": "https://example.com/avatars/new_profile_pic.png",
+          "gender": "f",
+          "prompt": null,
+          "isEnabled": true
+        },
+        {
+          "id": 6345,
+          "title": "Rabbit",
+          "preview": "https://example.com/avatars/new_profile_pic.png",
+          "previewProduction": "https://example.com/avatars/new_profile_pic.png",
+          "gender": "f",
+          "prompt": null,
+          "isEnabled": true
+        },
+        {
+          "id": 4294,
+          "title": "Elephant",
+          "preview": "https://example.com/avatars/new_profile_pic.png",
+          "previewProduction": "https://example.com/avatars/new_profile_pic.png",
+          "gender": "f",
+          "prompt": null,
+          "isEnabled": true
+        },
+        {
+          "id": 1325,
+          "title": "Giraffe",
+          "preview": "https://example.com/avatars/new_profile_pic.png",
+          "previewProduction": "https://example.com/avatars/new_profile_pic.png",
+          "gender": "f",
+          "prompt": null,
+          "isEnabled": true
+        },
+        {
+          "id": 2345,
+          "title": "Snake",
+          "preview": "https://example.com/avatars/new_profile_pic.png",
+          "previewProduction": "https://example.com/avatars/new_profile_pic.png",
+          "gender": "f",
+          "prompt": null,
+          "isEnabled": true
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Море",
+      "preview": null,
+      "isNew": false,
+      "isCouple": false,
+      "isGirlfriends": false,
+      "groupPreview": {
+        "gorup1": [],
+        "gorup2": [],
+        "gorup3": []
+      },
+      "previewByGender": {
+        "f": {
+          "group1": [],
+          "group2": [],
+          "group3": []
+        },
+        "m": {
+          "group1": [],
+          "group2": [],
+          "group3": []
+        }
+      },
+      "totalTemplates": 3,
+      "totalUsed": 0,
+      "templates": [
+        {
+          "id": 3025,
+          "title": "Bear",
+          "preview": "https://example.com/avatars/new_profile_pic.png",
+          "previewProduction": "https://example.com/avatars/new_profile_pic.png",
+          "gender": "f",
+          "prompt": null,
+          "isEnabled": true
+        },
+        {
+          "id": 3445,
+          "title": "Rabbit",
+          "preview": "https://example.com/avatars/new_profile_pic.png",
+          "previewProduction": "https://example.com/avatars/new_profile_pic.png",
+          "gender": "f",
+          "prompt": null,
+          "isEnabled": true
+        },
+        {
+          "id": 4534,
+          "title": "Mouse",
+          "preview": "https://example.com/avatars/new_profile_pic.png",
+          "previewProduction": "https://example.com/avatars/new_profile_pic.png",
+          "gender": "f",
+          "prompt": null,
+          "isEnabled": true
+        }
+      ]
+    }
+  ]
+}
